@@ -1,2 +1,2 @@
-# template-minimo-source-code-html-scss
+# Template Minimo
 template-minimo-source-code-html+scss
